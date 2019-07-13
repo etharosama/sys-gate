@@ -1,0 +1,168 @@
+i{
+	color: #494ca2 ;
+}
+h2{
+	color :#494ca2;
+	font-weight: 375;
+	padding: 2%;
+}
+h3  {
+	font-size: 2rem;
+	line-height: 1.5;
+	font-family: 'Lemon';
+	margin: auto;
+	text-align: center;
+	color :white;
+}
+em{
+	line-height: 1.5;
+  margin: auto;
+}
+footer {
+	padding: 7% 15% 3% ;
+	color: #8186d5 ;
+}
+
+#home{
+
+	padding:3% 7%  0%;
+	font-family: 'Lemon';
+	background-image: url(Untitled-1.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+#na{
+		padding:0% 10%  0%;
+}
+#h1-ba{
+	padding:20% 15%;
+}
+
+
+.p1{
+		color :#8186d5;
+}
+#interoduction{
+	padding:7% 15%;
+	font-family: 'Montserrat', sans-serif;
+}
+#Testimonials{
+	background-image: url(Untitled-1.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.h2-3{
+	font-size: 2rem;
+	font-family: 'Lemon';
+	margin: auto;
+	text-align: center;
+	color :white;
+padding-top: 3% ;
+}
+
+.press-photo{
+	text-align: center;
+margin-top: 3% ;
+margin-bottom: 3% ;
+}
+
+
+.carousel-inner{
+	font-family: 'Lemon';
+margin: auto;
+text-align: center;
+padding-top: 10% ;
+color :white;
+}
+
+.Testimonials-image{
+
+	padding-top:  3%;
+	margin: auto;
+	width: 50% ;
+border-radius: 25% 10%;
+}
+#pricing{
+	font-family: 'Montserrat', sans-serif;
+}
+#card{
+	width:50%;
+	height:500px;
+padding-top:70px;
+padding-bottom:20px;
+font-family: 'Montserrat', sans-serif;
+background-color: #494ca2;
+color: #e3e7f1 ;
+
+
+}
+#cta {
+	padding:7% 15% 3%;
+	font-family: 'Montserrat', sans-serif;
+	background-image: url(Untitled-1.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+text-align: center;
+
+}
+.butn {
+  -webkit-border-radius: 60;
+  -moz-border-radius: 60;
+  border-radius: 60px;
+  font-family: Arial;
+
+	background: #c6cbef;
+
+	color:#494ca2;
+
+	font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  border: solid #1f628d 0px;
+  text-decoration: none;
+}
+
+.butn:hover {
+	text-decoration: none;
+	color: #e3e7f1;
+  background: #8186d5;
+}
+#ic{
+	color:white;
+}
+.bty{
+-webkit-border-radius: 60;
+-moz-border-radius: 60;
+border-radius: 60px;
+font-family: Arial;
+
+background:#c6cbef;
+
+color:#494ca2;
+
+font-size: 20px;
+padding: 10px 20px 10px 20px;
+border: solid #1f628d 0px;
+text-decoration: none;
+}
+
+.bty:hover {
+	text-decoration: none;
+	color: #e3e7f1;
+  background: #494ca2;
+}
+
+#foot{
+	color: #8186d5 ;
+	padding: 5px;
+}
+@media (max-width:1028px) {
+#ba {
+	text-align: center;
+}
+.press-photo{
+	width: 75% ;
+}
+}
